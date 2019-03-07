@@ -19,7 +19,7 @@ class Ticket {
     this()
     _numbers = numbers
     _starNumbers = starNumbers
-  }3
+  }
 
   /**
     * Generate all normal tickets from a system ticket.
